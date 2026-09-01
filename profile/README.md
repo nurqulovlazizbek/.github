@@ -5,7 +5,9 @@
 <p align="center">
   <a href="https://morechat.io"><b>morechat.io</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/morechat.uz/">Instagram @morechat.uz</a>
+  <a href="https://www.instagram.com/morechat.uz/">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/morechatuz">Telegram</a>
 </p>
 
 ---
